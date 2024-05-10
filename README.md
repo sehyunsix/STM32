@@ -36,9 +36,7 @@ Study for STM
 
 # issue
 
-## 6.3.2 How to powerd board and connect with pc
-
-1. VBUS 를 통해 500mA 의 전류가 흐른다.</p> 2.보드의 전원히 적절히 들오지 않는다.
+1. JP1이 on 되어있지 않으면, 맥북에서 연결되었을때, USB가 initialize 되지 않는다.
 
 # Reference
 
