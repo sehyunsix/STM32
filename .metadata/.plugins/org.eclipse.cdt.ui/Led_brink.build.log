@@ -1,0 +1,10 @@
+22:33:34 **** Incremental Build of configuration Debug for project Led_brink ****
+make -j7 all 
+arm-none-eabi-size  Led_brink.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4628	     12	   1572	   6212	   1844	Led_brink.elf
+Finished building: default.size.stdout
+ 
+
+22:33:34 Build Finished. 0 errors, 0 warnings. (took 153ms)
+
