@@ -4,6 +4,8 @@ Study for STM
 
 # device
 
+![Image](/manual/device.png)
+
 # vacubalary
 
 | Low-Layer Application Programiming Interface |                                                   |
